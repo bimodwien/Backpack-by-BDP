@@ -1,0 +1,89 @@
+.navbar{
+  background-color: black;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar li{
+  display: inline-block;
+  padding: 30px;  
+}
+
+.txt-navbar{
+  color: white;
+}
+
+.center{
+  display: block;
+  margin: auto;
+}
+
+.ukuran-gambar{
+  height: 200px;
+  width: 200px;
+  float: left;
+}
+.ukuran-gambar2{
+  height: 100px;
+  width: 100px;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.txt-order{
+  padding: 20px;
+}
+
+.txt-center{
+  text-align: center;
+  padding: 10px;
+}
+
+.product-box{
+  max-width: 600px;
+  min-height: 300px;
+  border: 1px solid;
+  padding: 10px;
+  border-radius: 12px;
+  margin-bottom: 30px;
+}
+
+table{
+  width: 100%;
+}
+
+.txt-kiri{
+  text-align: left;
+}
+.content{
+  margin-top: 70px;
+}
+
+.footer{
+  background-color: black;
+  color: white ;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  
+}
+
+.form-product{
+  width: 600px;
+  margin: auto;
+}
+
+.tabel-submit{
+  width: 500px;
+  text-align: center;
+  margin: auto;
+
+}
+
+.button-position{
+  margin: auto;
+}
